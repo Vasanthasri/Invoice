@@ -1,0 +1,14 @@
+```json
+{
+  "invoice_number": "6243",
+  "invoice_date": "2025-06-27",
+  "supplier": {
+    "name": "Bio Green Foodstuff Trading L.L.C",
+    "vat_number": null,
+    "address": null,
+    "phone": null,
+    "email": null
+  },
+  "buyer": {
+    "name": "Talal Company",
+    "vat_number": "TALAL-VAT
